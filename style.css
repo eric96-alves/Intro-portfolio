@@ -1,0 +1,114 @@
+* {
+      margin: 0;
+      padding: 0;
+      text-decoration: none;
+      list-style: none;
+}
+
+body {
+    
+      font-family: "Muli",sans-serif;
+}
+
+
+
+.fundo{
+    height: 657px;
+    background: #000000;
+}
+/*----- FECHA SEÇÃO1 PRETO -----*/
+
+
+
+/*----- SEÇÃO INTRO -----*/
+
+
+
+
+.titulo{
+     margin-top: 163px;
+    
+    
+}
+
+.titulo h1{
+    
+    color: #FFFFFF;
+    font-size:58px;
+    font-family: "Muli", sans-serif;
+    font-weight: 800;
+    line-height: 70px;
+    text-align: center;
+    margin: 0 auto;
+    letter-spacing: 1px;
+    
+}
+
+.titulo h2{
+    
+    color: #FFFFFF;
+    font-size: 26px;
+    font-family: "Muli", sans-serif;
+    font-weight: 300;
+    margin-top: 58px;
+    text-align: center;
+    opacity: 90%;
+    letter-spacing: 0.80px;
+}
+
+
+.btn_behance{
+margin-top: 55px;
+text-align: center;
+    
+}
+.btn{
+    
+	border-radius: 6px;
+	padding: 22px 88px;
+	color:#ffffff;
+    background: #0048D9;
+	font-size: 18px;
+	line-height: 20px;
+	font-weight: 400;
+	letter-spacing: 1px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.btn:hover {
+	color: #fff;
+	background: #2B65D9;
+    font-weight: 400;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 768px) {
+    
+  
+@media(min-width: 768px) {
+      
